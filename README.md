@@ -23,9 +23,7 @@ This Power BI dashboard analyzes Blinkit grocery sales data and provides insight
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
-[Dashboard](Dashboard_screenshot.png)
+[(Dashboard screenshot.png)]
 
 ## Key Insights
 - Tier 3 outlets generated the highest sales.
